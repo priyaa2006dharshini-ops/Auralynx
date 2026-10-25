@@ -1,0 +1,9 @@
+timestamp,accel_x_g,accel_y_g,accel_z_g,gyro_x_dps,gyro_y_dps,gyro_z_dps,scenario
+0,0.02,0.01,0.99,0.5,0.2,0.1,stationary
+100,0.04,0.02,1.01,0.7,0.3,0.2,normal_movement
+200,0.12,0.08,1.05,2.1,1.2,0.8,normal_movement
+300,0.18,0.11,0.96,3.5,2.0,1.4,normal_movement
+400,0.03,0.02,1.00,0.4,0.3,0.2,stationary
+500,0.10,0.06,1.02,1.8,0.9,0.6,normal_movement
+600,0.25,0.15,1.10,5.0,3.2,2.1,normal_movement
+700,0.02,0.01,0.98,0.6,0.3,0.2,stationary
